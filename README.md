@@ -22,7 +22,7 @@ The .exe will open up two windows - a GUI-based window and a basic console windo
 will be blank until you enter in the necessary commands into the console window to start a game - instructions
 are provided in the console window.  Note:  higher numbers may be entered for AI difficulty than those listed,
 but result in long wait-times for AI play.  This is due to the fact that search time increases exponentially with
-search depth (how many moves ahead are considered).
+search depth (how many moves ahead are considered).  5 seems to be the maximum - 6 results in long wait-times.
 
 There are some additional keyboard commands that are not listed in the console window that I included before 
 completing the project - all commands are listed below.  
