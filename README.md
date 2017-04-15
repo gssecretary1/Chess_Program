@@ -1,7 +1,7 @@
 All of the code that was used for the project is here.
 The only code that I did not create is the code found in BitmapFontClass.h and BitmapFontClass.cpp.
 
-========================
+
 Application Instructions
 ========================
 
@@ -28,7 +28,7 @@ If you are able to push a pawn to the opposite end of the board, you must enter 
 window that you wish to promote the pawn to.  The game will not proceed until this is done, so it may seem like it
 has locked up.
 
-=============
+
 File Overview
 =============
 
